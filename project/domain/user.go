@@ -1,0 +1,15 @@
+package domain
+
+type User struct {
+	Login, 
+	Password,
+	UserRights string
+}
+const(
+	AdminRights = "admin"
+	UserRights = "user"
+)
+//NewUser return empty User's instance
+func NewUser() User {
+	return User{}
+}
