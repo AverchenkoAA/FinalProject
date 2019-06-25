@@ -10,6 +10,7 @@ Server and client run via "go run main.go".
 Console-client should be used after web-server app start only.
 Default user "ADMIN" has password "12345678".
 If you want to find or change some fields you have to use special syntax of the fields.
+_______________________________________________________________________________________
 
 For change or choose some computer's fields you have to use follow commands:
 
@@ -32,7 +33,7 @@ For change or choose some computer's fields you have to use follow commands:
    computer.owner.lastname --- string - Lastname name of a person who use the computer
 
    computer.owner.roomnumber --- integer - Room number of a person who use the computer
-
+_________________________________________________________________________________________
 
 For change or choose some user's fields you have to use follow commands:
 
