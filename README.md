@@ -1,6 +1,6 @@
 # FinalProject
 This API can help you to remember how many computers you have , there specifications and who is there owners(or users).
-You can find, add, change and delete computers via console-client. If you login under user with "admin"(Administrator) rights you also can find, add, change and delete users, who can login to web-server.
+You can find, add, change and delete computers via console-client. If you login as user with "admin"(Administrator) rights you also can find, add, change and delete users, who can login to web-server.
 
 To start you should have launched mongo data base server on localhost:27017.
 Data base and collections will create automatically.
